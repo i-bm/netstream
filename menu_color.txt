@@ -1,0 +1,8 @@
+background: rgb(204,71,71); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(204,71,71,1) 48%, rgba(211,0,35,1) 53%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(48%,rgba(204,71,71,1)), color-stop(53%,rgba(211,0,35,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(204,71,71,1) 48%,rgba(211,0,35,1) 53%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(204,71,71,1) 48%,rgba(211,0,35,1) 53%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(204,71,71,1) 48%,rgba(211,0,35,1) 53%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(204,71,71,1) 48%,rgba(211,0,35,1) 53%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc4747', endColorstr='#d30023',GradientType=0 ); /* IE6-9 */
